@@ -1,4 +1,4 @@
-#Mock Amazon
+# Mock Amazon
 
 Description:
 In this project, code is written to model a very simplified version of an online retail system, similar to Amazon. 
